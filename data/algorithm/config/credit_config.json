@@ -1,0 +1,19 @@
+{
+  "masking": {
+    "rounding": [
+      {
+        "name": "MonthlyIncome",
+        "bins": "20"
+      }
+    ]
+  },
+  "rules": {
+    "association": [
+      [
+        "NumberOfTimes90DaysLate",
+        "NumberOfTime30-59DaysPastDueNotWorse",
+        "NumberOfTime60-89DaysPastDueNotWorse"
+      ]
+    ]
+  }
+}
