@@ -2,7 +2,7 @@
 
 # Train, tune, and deploy a custom synthetic data generator using Synthesized's Tabular Data Generator Algorithm from AWS Marketplace
 
-[Synthesized's Tabular Data Generator Algorithm]() brings the generative AI capabilitiies of our 
+[Synthesized's Tabular Data Generator Algorithm](https://aws.amazon.com/marketplace/pp/prodview-da77no6ehd3pe) brings the generative AI capabilitiies of our 
 [SDK](https://docs.synthesized.io/sdk/latest/) to AWS Sagemaker.
 
 ## Overview
@@ -14,4 +14,4 @@ ML/AI applications. Right-size your data with AI-supported data transformations.
 You can find more details in our [documentation](https://docs.synthesized.io/sdk/latest/).
 
 This demo repository shows you how to train a generative model for tabular data using 
-[Synthesized's Tabular Data Generator Algorithm]() from AWS Marketplace.
+[Synthesized's Tabular Data Generator Algorithm](https://aws.amazon.com/marketplace/pp/prodview-da77no6ehd3pe) from AWS Marketplace.
